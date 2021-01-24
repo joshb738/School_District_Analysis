@@ -1,10 +1,10 @@
 # School_District_Analysis
 
 ## Project Overview
-
+Analyzing the various summarys to examine the results of removing the 9th grade math and reading scores.
 
 ## Resources 
-- Software: Jupyter Notebook 6.1.4, Python 3.9.1 
+- Software: Anaconda 4.9.2, Jupyter Notebook 6.1.4, Python 3.8.5
 - Data Sources: - [students_complete.csv](resources/students_complete.csv), [schools_complete.csv](resources/schools_complete.csv)
 
 
