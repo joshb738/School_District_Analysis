@@ -14,11 +14,11 @@ The following analysis was performed to deteremine the effects of removing the 9
 
 1. How is the district summary affected?
 
-   **Original**
+   a) **Original**
    <p align="left">
    <img src="Resources/district_summary_original.PNG">
    </p>
-   **Revised
+   b) **Revised**
    <p align="left">
    <img src="Resources/district_summary_revised.PNG">
    </p>
