@@ -11,8 +11,9 @@ Analyzing the various summarys to examine the results of removing the 9th grade 
 ## Results: 
 
 1. How is the district summary affected?
+   
    <p align="left">
-   <img src="Resources/district_summary_orginal.PNG">
+   <img src="Resources/district_summary_original.PNG">
    </p>
    
 2. How is the school summary affected?
