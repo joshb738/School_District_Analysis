@@ -18,7 +18,7 @@ The following analysis was performed to deteremine the effects of removing the 9
    <p align="left">
    <img src="Resources/district_summary_original.PNG">
    </p>
-   b) **Original**
+   **b) Original**
    <p align="left">
    <img src="Resources/district_summary_revised.PNG">
    </p>
