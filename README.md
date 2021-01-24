@@ -1,7 +1,9 @@
 # School_District_Analysis
 
 ## Project Overview
-Analyzing the various summarys to examine the results of removing the 9th grade math and reading scores.
+The following analysis was performed to deteremine the effects of removing the 9th grade math and reading scores on the following summarys.
+1. District Summary
+2. School Summary
 
 ## Resources 
 - Software: Anaconda 4.9.2, Jupyter Notebook 6.1.4, Python 3.8.5
@@ -11,9 +13,14 @@ Analyzing the various summarys to examine the results of removing the 9th grade 
 ## Results: 
 
 1. How is the district summary affected?
-   
+
+   **Original**
    <p align="left">
    <img src="Resources/district_summary_original.PNG">
+   </p>
+   **Revised
+   <p align="left">
+   <img src="Resources/district_summary_revised.PNG">
    </p>
    
 2. How is the school summary affected?
