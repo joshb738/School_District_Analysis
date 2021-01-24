@@ -8,7 +8,7 @@ The following analysis was performed to deteremine the effects of removing the 9
 3. Top 5 & Bottom 5 Schools based on Overall Passing percentage
 4.
 
-***NOTE: Due to GitHub dataframe rendering issues for Jupyter Notebook files, the [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb) file can also be viewed [here](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb).***
+### ***NOTE: Due to GitHub dataframe rendering issues for Jupyter Notebook files, the [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb) file can also be viewed [here](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb).***
 
 ## Resources 
 - Software: Anaconda 4.9.2, Jupyter Notebook 6.1.4, Python 3.8.5
