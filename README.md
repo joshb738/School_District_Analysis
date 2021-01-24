@@ -16,7 +16,9 @@ The following analysis was performed to deteremine the effects of removing the 9
 
 ## Results: 
 
-1. The following changes occured to the School District Summary:
+The removale of the THS 9th grade reading and math school has resulted in the following changes:  
+
+1. **School District Summary"**
    - 0.1 decrease in the Average Math score.
    - 0.2% decrease in the students passing math.
    - 0.1% decrease in the students passing reading.
@@ -32,7 +34,7 @@ The following analysis was performed to deteremine the effects of removing the 9
    <img src="Resources/district_summary_revised.PNG">
    </p>
    
-2. The following changes occured for the Thomas High School data in the School Summary
+2. **School Summary**
    - Approximately **30.11%** increase in the students passing math.
    - Approximately **27.36%** inccrease in the students passing reading.
    - Approximately **25.55%** icrease in the students overall passing score.
