@@ -8,7 +8,7 @@ Analyzing the various summarys to examine the results of removing the 9th grade 
 - Data Sources: - [students_complete.csv](resources/students_complete.csv), [schools_complete.csv](resources/schools_complete.csv)
 
 
-## ResultsResults: 
+## Results: 
 
 - How is the district summary affected?
 - How is the school summary affected?
