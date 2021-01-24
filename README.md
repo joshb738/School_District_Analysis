@@ -39,12 +39,12 @@ The following analysis was performed to deteremine the effects of removing the 9
    
    a) **Original**
    <p align="left">
-   <img src="Resources/school_summary_original.PNG">
+   <img src="Resources/per_school_summary_original.PNG">
    </p>
    
    b) **Revised**
    <p align="left">
-   <img src="Resources/school_summary_revised.PNG">
+   <img src="Resources/per_school_summary_revised.PNG">
    </p>
 
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
