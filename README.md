@@ -1,9 +1,12 @@
 # School_District_Analysis
 
 ## Project Overview
-The following analysis was performed to deteremine the effects of removing the 9th grade math and reading scores on the following summarys.
-1. District Summary
+The following analysis was performed to deteremine the effects of removing the 9th grade math and reading scores from Thomas High School (THS) on the following summary data:
+1. SChool District Summary
 2. School Summary
+3. Top 5 & Bottom 5 Schools based on Overall Passing %
+
+
 
 ## Resources 
 - Software: Anaconda 4.9.2, Jupyter Notebook 6.1.4, Python 3.8.5
@@ -12,14 +15,18 @@ The following analysis was performed to deteremine the effects of removing the 9
 
 ## Results: 
 
-1. How is the district summary affected?
-
+1. The following changes occured to the School District Summary:
+   - 0.1 decrease in the Average Math score.
+   - 0.2% decrease for the students passing math.
+   - 0.1% decrease for the students passing reading.
+   - 0.3% decrease for the students overall passing score.
+   
    a) **Original**
    <p align="left">
    <img src="Resources/district_summary_original.PNG">
    </p>
    
-   b) **Original**
+   b) **Revised**
    <p align="left">
    <img src="Resources/district_summary_revised.PNG">
    </p>
