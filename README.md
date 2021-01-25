@@ -40,7 +40,7 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    
    b) **Revised**    
    <p align="left">
-   <img src="Resources/district_summary_revised.PNG">
+   <img src="Resources/district_summary_original.PNG">
    </p>
    
 #### 2. **School Summary**
