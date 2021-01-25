@@ -7,7 +7,7 @@ The following analysis was performed to deteremine the results of removing the 9
 1. School District Summary
 2. School Summary
 3. Top 5 & Bottom 5 Schools based on Overall Passing percentage
-4. a) Average scores for Math & Reading by Grade
+4. a) Average Math & Reading Scores by Grade
    
    b) Scores by School Spending
    
@@ -87,7 +87,8 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    
    b) No reportable effects have occured to the [Bottom 5](Resources/bottom5_schools_revised.PNG) performing schools.
    
-#### 4. a) The most notable changes to the Average [**Math(left)**](Resources/average_math_score_revised.PNG) and [**Reading(right)** (Resources/average_reading_score_revised.PNG) scores are the 9th grade results for THomas High Schools have been nullified having no effect on grades 10 - 12 for the school.
+#### 4. a) Average Math & Reading Scores by Grade
+   - The most notable changes to the Average [**Math(left)**](Resources/average_math_score_revised.PNG) and [**Reading(right)**](Resources/average_reading_score_revised.PNG) scores are the 9th grade results for THomas High Schools have been nullified having no effect on grades 10 - 12 for the school.
   
   <img src="Resources/average_math_score_revised.PNG"> <img src="Resources/average_reading_score_revised.PNG">
    
