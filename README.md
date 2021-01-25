@@ -45,7 +45,7 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    
 2. **School Summary**
    
-   a) **Original**   [(Ref:Cell 16)](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+   a) **Original**   [(Ref:Cell )](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools.ipynb)
    
    <p align="left">
    <img src="Resources/per_school_summary_original1.PNG">
@@ -53,15 +53,19 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    
    b) **Results without 9th grade math and reading scores for Thomas High School**   [(Ref:Cell 16)](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
    
-   - Approximately **26.36%** decrease in the students passing math percentage.
-   - Approximately **27.65%** decrase in the students passing reading percentage.
-   - Approximately **25.87%** increase in the students overall passing percentage. 
+   - An approximate **26.36%** decrease in the students passing math percentage.
+   - An approximate **27.65%** decrase in the students passing reading percentage.
+   - An approximate **25.87%** increase in the students overall passing percentage. 
    
    <p align="left">
    <img src="Resources/per_school_summary_WOTHS9.PNG">
    </p>
    
-   c) **Revised Summary **    [(Ref:Cell 27)](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+   c) **Results excluding all 9th grade students from Thomas High School  **    [(Ref:Cell 27)](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+   
+   - An approximate **26.28%** inrease in the students passing math percentage.
+   - An approximate **27.63%** increase in the students passing reading percentage.
+   - An approximate **25.55%** increase in the students overall passing percentage. 
    
    <p align="left">
    <img src="Resources/per_school_summary_revised1.PNG">
