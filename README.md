@@ -59,7 +59,7 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    
    b) No reportable effects have occured to the [Bottom 5](Resources/bottom5_schools_revised.PNG) performing schools.
    
- 4. a) Average grades for **Math(left)** and **Reading(right)** scores for the 9th grade have been nullified, having no effect on grades 10 - 12 for Thomas High SChool.
+ 4. a) Average grades for **Math(left)** and **Reading(right)** scores for the 9th grade have been nullified, having no effect on grades 10 - 12 for Thomas High School.
   
   <img src="Resources/average_math_score_revised.PNG"> <img src="Resources/average_reading_score_revised.PNG">
    
