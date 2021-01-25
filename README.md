@@ -51,7 +51,7 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    <img src="Resources/per_school_summary_original.PNG">
    </p>
    
-   b) **Results without 9th grade math and reading scores for Thomas High School**   [(Ref:Cell 16)](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+   b) **Results excluding 9th grade math and reading scores for Thomas High School**   [(Ref:Cell 16)](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
    
    - An approximate **26.36%** decrease in the students passing math percentage.
    - An approximate **27.65%** decrase in the students passing reading percentage.
