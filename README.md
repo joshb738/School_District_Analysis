@@ -35,14 +35,13 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    </p>
    
 2. **School Summary**
-   - Aprroxiamtely **0.07** decrease in the Average Math Score.
-   - Aprroxiamtely **0.05** decrease in the Average Reading Score.
-   - Approximately **0.08%** decrease in the students passing math.
-   - Approximately **0.29%** decrease in the students passing reading.
-   - Approximately **0.32%** decrease in the students overall passing score.
+   - Approximately **26.27%** increase in the students passing math percentage.
+   - Approximately **27.36%** increase in the students passing reading percentage.
+   - Approximately **25.55%** increase in the students overall passing percentage.
    
    a) **Original**
    <p align="left">
+   <img src="Resources/per_school_summary_original1.PNG">
    </p>
    
    b) **Revised**
@@ -51,14 +50,7 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    </p>
 
 3. **Top & Bottom 5 Schools based on Overall Passing percentage**
-   -  Thomas High has retained the second-place position for Top 5 schools based on Overall passing percentage.
-   
-   a) **Original**
-   <p align="left">
-   <img src="Resources/top5_schools_original.PNG">
-   </p>
-   
-   b) **Revised**
+   a) With and Overall Passing percentage of **90.63%** Thomas High has secured second-place position in the top 5 schools
    <p align="left">
    <img src="Resources/top5_schools_revised.PNG">
    </p>
