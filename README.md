@@ -82,7 +82,7 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    
    **Original**
    <p align="left">
-   <img src="Resources/top5_schools_revised.PNG">
+   <img src="Resources/top5_schools_original.PNG">
    </p>
    
    b) No reportable effects have occured to the [Bottom 5](Resources/bottom5_schools_revised.PNG) performing schools.
