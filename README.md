@@ -12,14 +12,14 @@ The following analysis was performed to deteremine the effects of removing the 9
 
 ## Resources 
 - Software: Anaconda 4.9.2, Jupyter Notebook 6.1.4, Python 3.8.5
-- Data Sources: - [students_complete.csv](resources/students_complete.csv), [schools_complete.csv](resources/schools_complete.csv)
+- Data Sources: - [students_complete.csv](Resources/students_complete.csv), [schools_complete.csv](Resources/schools_complete.csv)
 
 
 ## Results: 
 
 The removal of 9th grade reading and math scores from Thomas High School has resulted in the following changes:  
 
-1. **School District Summary"**
+1. **School District Summary**
    - 0.1 decrease in the Average Math score.
    - 0.2% decrease in the students passing math.
    - 0.1% decrease in the students passing reading.
@@ -65,6 +65,9 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    <img src="Resources/top5_schools_revised.PNG">
    </p>
    
+   - No reportable effects have occured to the bottom 5 performing school.
+   a) [Original](Resources/bottom5_schools_original)
+   b) [Revised](Resources/bottom5_schools_revised)
    
    How does replacing the ninth-grade scores affect the following:
   -Average Math and reading scores by grade
