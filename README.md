@@ -46,7 +46,7 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    
    b) **Revised**
    <p align="left">
-   <img src="Resources/per_school_summary_revised.PNG">
+   <img src="Resources/per_school_summary_revised1.PNG">
    </p>
 
 3. **Top & Bottom 5 Schools based on Overall Passing percentage**
