@@ -12,7 +12,9 @@ The following analysis was performed to deteremine the changes and results of re
 
 ## Resources 
 - Software: Anaconda 4.9.2, Jupyter Notebook 6.1.4, Python 3.8.5
-- Data Sources: [students_complete.csv](Resources/students_complete.csv), [schools_complete.csv](Resources/schools_complete.csv) 
+- Data Sources: 
+   1. Raw data: [students_complete.csv](Resources/students_complete.csv), [schools_complete.csv](Resources/schools_complete.csv)
+   2. Data Analysis: [Challenge Analysis](Resources/PyCitySchools_Challenge.ipynb), [odule Data](Resources/PyCitySchools.ipynb)
 
 ## Results: 
 
