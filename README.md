@@ -48,7 +48,7 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    a) **Original**   [(Ref:Cell )](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools.ipynb)
    
    <p align="left">
-   <img src="Resources/per_school_summary_original1.PNG">
+   <img src="Resources/per_school_summary_original.PNG">
    </p>
    
    b) **Results without 9th grade math and reading scores for Thomas High School**   [(Ref:Cell 16)](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
