@@ -8,7 +8,7 @@ The following analysis was performed to deteremine the effects of removing the 9
 3. Top 5 & Bottom 5 Schools based on Overall Passing percentage
 4.
 
-### ***NOTE: Due to GitHub dataframe rendering issues for Jupyter Notebook files, the [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb) file can also be viewed [here](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb).***
+### ***NOTE: Due to GitHub DataFrame rendering issues for Jupyter Notebook files, the [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb) file can also be viewed [here](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb).***
 
 ## Resources 
 - Software: Anaconda 4.9.2, Jupyter Notebook 6.1.4, Python 3.8.5
@@ -17,7 +17,7 @@ The following analysis was performed to deteremine the effects of removing the 9
 
 ## Results: 
 
-The removal of Thomas High School's 9th grade reading and math school has resulted in the following changes:  
+The removal of 9th grade reading and math scores from Thomas High School has resulted in the following changes:  
 
 1. **School District Summary"**
    - 0.1 decrease in the Average Math score.
@@ -36,9 +36,11 @@ The removal of Thomas High School's 9th grade reading and math school has result
    </p>
    
 2. **School Summary**
-   - Approximately **30.11%** increase in the students passing math.
-   - Approximately **27.36%** inccrease in the students passing reading.
-   - Approximately **25.55%** icrease in the students overall passing score.
+   - Aprroxiamtely **0.07** decrease in the Average Math Score.
+   - Aprroxiamtely **0.05** decrease in the Average Reading Score.
+   - Approximately **0.08%** decrease in the students passing math.
+   - Approximately **0.29%** decrease in the students passing reading.
+   - Approximately **0.32%** decrease in the students overall passing score.
    
    a) **Original**
    <p align="left">
@@ -51,15 +53,18 @@ The removal of Thomas High School's 9th grade reading and math school has result
    </p>
 
 3. **Top & Bottom 5 Schools based on Overall Passing percentage**
+   -  Thomas High has retained the second-place position for Top 5 schools based on Overall passing percentage.
    
-   In comparison to other schools:
+   a) **Original**
+   <p align="left">
+   <img src="Resources/top5_schools_original.PNG">
+   </p>
    
-   a) Top 5 & Bottom 5 based on Overall PercenThomas High School has retained the position for second highest Overall passing percentage.
+   b) **Revised**
    <p align="left">
    <img src="Resources/top5_schools_revised.PNG">
    </p>
    
-   b) There has been no effect on the bottom 5 performing schools
    
    How does replacing the ninth-grade scores affect the following:
   -Average Math and reading scores by grade
@@ -68,4 +73,4 @@ The removal of Thomas High School's 9th grade reading and math school has result
   - Scores by school type
 
 
-## Summarry
+## Summary
