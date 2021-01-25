@@ -1,7 +1,8 @@
 # School_District_Analysis
 
 ## Project Overview
-The following analysis was performed to deteremine the changes and results of removing the 9th grade math and reading scores from Thomas High School on the following summary data:
+
+The following analysis was performed to deteremine the results of removing the 9th grade math and reading scores from Thomas High School on the following data summaries:
 
 1. School District Summary
 2. School Summary
@@ -11,8 +12,8 @@ The following analysis was performed to deteremine the changes and results of re
    b) Scores by School Spending
    
    c) Scores by School Size
-  
-  d) Scores by School Type
+   
+   d) Scores by School Type
 
 ### ***NOTE: Due to GitHub DataFrame rendering issues for Jupyter Notebook files, the [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb) file can also be viewed [here](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb).***
 
