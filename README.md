@@ -42,12 +42,14 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    - Approximately **25.55%** increase in the students overall passing percentage.
    
    a) **Original**
+   
    Ref:[(Cell 16)](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
    <p align="left">
    <img src="Resources/per_school_summary_original1.PNG">
    </p>
    
    b) **Revised**
+   
    Ref: [(Cell 27)](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
    <p align="left">
    <img src="Resources/per_school_summary_revised1.PNG">
