@@ -27,7 +27,7 @@ The following analysis was performed to deteremine the results of removing the 9
 
 The removal of 9th grade reading and math scores from Thomas High School has resulted in the following changes:  
 
-1. **School District Summary**
+#### 1. **School District Summary**
    - **0.1 decrease** in the Average Math score.
    - **0.2% decrease** in the students passing math.
    - **0.1% decrease** in the students passing reading.
