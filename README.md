@@ -6,7 +6,10 @@ The following analysis was performed to deteremine the changes and results of re
 1. School District Summary
 2. School Summary
 3. Top 5 & Bottom 5 Schools based on Overall Passing percentage
-4. Average Grades for Math
+4. a) Average scores for Math & Reading by Grade
+   b) Scores by School Spending
+   c) Scores by School Size
+   d) Scores by School Type
 
 ### ***NOTE: Due to GitHub DataFrame rendering issues for Jupyter Notebook files, the [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb) file can also be viewed [here](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb).***
 
@@ -63,21 +66,21 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    
    b) No reportable effects have occured to the [Bottom 5](Resources/bottom5_schools_revised.PNG) performing schools.
    
- 4. a) The most notable changes to the Average [**Math(left)**](Resources/average_math_score_revised.PNG) and [**Reading(right)**](Resources/average_reading_score_revised.PNG) scores are the 9th grade results for THomas High Schools have been nullified having no effect on grades 10 - 12 for the school.
+4. a) The most notable changes to the Average [**Math(left)**](Resources/average_math_score_revised.PNG) and [**Reading(right)**](Resources/average_reading_score_revised.PNG) scores are the 9th grade results for THomas High Schools have been nullified having no effect on grades 10 - 12 for the school.
   
   <img src="Resources/average_math_score_revised.PNG"> <img src="Resources/average_reading_score_revised.PNG">
    
-    b) **Scores by school spending**
+   b) **Scores by School Spending**
    <p align="left">
    <img src="Resources/scores_spending_summary.PNG">
    </p>
    
-   c) **Scores by school size**
+   c) **Scores by School Size**
    <p align="left">
    <img src="Resources/scores_size_summary.PNG">
    </p>
    
-   d) **Scores by school type**
+   d) **Scores by School Type**
    <p align="left">
    <img src="Resources/scores_type_summary.PNG">
    </p>
