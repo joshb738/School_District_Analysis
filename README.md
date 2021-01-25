@@ -67,9 +67,9 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    
    - No reportable effects have occured to the bottom 5 performing school.
    
-   a) [Bottom 5 Original](Resources/bottom5_schools_original)
+   a) [Bottom 5 Schools - Original](Resources/bottom5_schools_original.PNG)
    
-   b) [Bottom 5 Revised](Resources/bottom5_schools_revised)
+   b) [Bottom 5 Schools - Revised](Resources/bottom5_schools_revised.PNG)
    
    How does replacing the ninth-grade scores affect the following:
   -Average Math and reading scores by grade
