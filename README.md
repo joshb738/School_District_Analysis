@@ -7,9 +7,12 @@ The following analysis was performed to deteremine the changes and results of re
 2. School Summary
 3. Top 5 & Bottom 5 Schools based on Overall Passing percentage
 4. a) Average scores for Math & Reading by Grade
+   
    b) Scores by School Spending
+   
    c) Scores by School Size
-   d) Scores by School Type
+  
+  d) Scores by School Type
 
 ### ***NOTE: Due to GitHub DataFrame rendering issues for Jupyter Notebook files, the [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb) file can also be viewed [here](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb).***
 
