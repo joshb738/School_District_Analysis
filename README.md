@@ -14,7 +14,6 @@ The following analysis was performed to deteremine the effects of removing the 9
 - Software: Anaconda 4.9.2, Jupyter Notebook 6.1.4, Python 3.8.5
 - Data Sources: - [students_complete.csv](Resources/students_complete.csv), [schools_complete.csv](Resources/schools_complete.csv)
 
-
 ## Results: 
 
 The removal of 9th grade reading and math scores from Thomas High School has resulted in the following changes:  
@@ -79,3 +78,4 @@ The removal of 9th grade reading and math scores from Thomas High School has res
 
 
 ## Summary
+ Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
