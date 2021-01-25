@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Project Overview
-The following analysis was performed to deteremine the effects of removing the 9th grade math and reading scores from Thomas High School (THS) on the following summary data:
+The following analysis was performed to deteremine the effects of removing the 9th grade math and reading scores from Thomas High School on the following summary data:
 
 1. School District Summary
 2. School Summary
@@ -17,7 +17,7 @@ The following analysis was performed to deteremine the effects of removing the 9
 
 ## Results: 
 
-The removale of the THS 9th grade reading and math school has resulted in the following changes:  
+The removal of Thomas High School's 9th grade reading and math school has resulted in the following changes:  
 
 1. **School District Summary"**
    - 0.1 decrease in the Average Math score.
@@ -53,6 +53,7 @@ The removale of the THS 9th grade reading and math school has resulted in the fo
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 4. How does replacing the ninth-grade scores affect the following:
   - Average Math and reading scores by grade
+  
   - Scores by school spending
   - Scores by school size
   - Scores by school type
