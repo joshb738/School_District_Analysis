@@ -20,7 +20,7 @@ The following analysis was performed to determine the results of removing the 9t
 ## Resources 
 - Software: Anaconda 4.9.2, Jupyter Notebook 6.1.4, Python 3.8.5
 - Data Sources: 
-   1. Data Analysis: [Challenge Analysis](PyCitySchools_Challenge.ipynb), [Module Data](PyCitySchools.ipynb)
+   1. Data Analysis: [PyCitySchools_Challenge](PyCitySchools_Challenge.ipynb), [PyCitySchools](PyCitySchools.ipynb)
    2. Raw data: [students_complete.csv](Resources/students_complete.csv), [schools_complete.csv](Resources/schools_complete.csv)
 
 ## Results: 
