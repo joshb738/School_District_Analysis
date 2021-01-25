@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The following analysis was performed to deteremine the results of removing the 9th grade math and reading scores for Thomas High School on the following data summaries:
+The following analysis was performed to determine the results of removing the 9th grade math and reading scores for Thomas High School on the following data summaries:
 
 1. School District Summary
 2. School Summary
