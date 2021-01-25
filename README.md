@@ -67,7 +67,7 @@ The removal of 9th grade reading and math scores from Thomas High School has res
   
   <img src="Resources/average_math_score_revised.PNG"> <img src="Resources/average_reading_score_revised.PNG">
    
-   b) **Scores by school spending**
+    b) **Scores by school spending**
    <p align="left">
    <img src="Resources/scores_spending_summary.PNG">
    </p>
