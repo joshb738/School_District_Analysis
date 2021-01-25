@@ -50,16 +50,13 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    </p>
 
 3. **Top & Bottom 5 Schools based on Overall Passing percentage**
-   a) With and Overall Passing percentage of **90.63%** Thomas High has secured second-place position in the top 5 schools
+   a) With and Overall Passing percentage of **90.63%** Thomas High has secured second-place position in the top 5 schools.
+   
    <p align="left">
    <img src="Resources/top5_schools_revised.PNG">
    </p>
    
-   - No reportable effects have occured to the bottom 5 performing school.
-   
-   a) [Bottom 5 Schools - Original](Resources/bottom5_schools_original.PNG)
-   
-   b) [Bottom 5 Schools - Revised](Resources/bottom5_schools_revised.PNG)
+   b) No reportable effects have occured to the [Bottom 5](Resources/bottom5_schools_revised.PNG) performing schools.
    
  4. a) Average Math(left) and reading(righ) scores by grade
   
