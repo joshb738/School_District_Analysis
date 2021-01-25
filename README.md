@@ -1,18 +1,18 @@
 # School_District_Analysis
 
 ## Project Overview
-The following analysis was performed to deteremine the effects of removing the 9th grade math and reading scores from Thomas High School on the following summary data:
+The following analysis was performed to deteremine the changes and results of removing the 9th grade math and reading scores from Thomas High School on the following summary data:
 
 1. School District Summary
 2. School Summary
 3. Top 5 & Bottom 5 Schools based on Overall Passing percentage
-4.
+4. Average Grades for Math
 
 ### ***NOTE: Due to GitHub DataFrame rendering issues for Jupyter Notebook files, the [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb) file can also be viewed [here](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb).***
 
 ## Resources 
 - Software: Anaconda 4.9.2, Jupyter Notebook 6.1.4, Python 3.8.5
-- Data Sources: - [students_complete.csv](Resources/students_complete.csv), [schools_complete.csv](Resources/schools_complete.csv)
+- Data Sources: [students_complete.csv](Resources/students_complete.csv), [schools_complete.csv](Resources/schools_complete.csv) 
 
 ## Results: 
 
@@ -59,7 +59,7 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    
    b) No reportable effects have occured to the [Bottom 5](Resources/bottom5_schools_revised.PNG) performing schools.
    
- 4. a) Average grades for **Math(left)** and **Reading(right)** scores for the 9th grade have been nullified, having no effect on grades 10 - 12 for Thomas High School.
+ 4. a) The most notable changes to the Average **Math(left)** and **Reading(right)** scores are the 9th grade results for THomas High Schools have been nullified having no effect on grades 10 - 12 for the school.
   
   <img src="Resources/average_math_score_revised.PNG"> <img src="Resources/average_reading_score_revised.PNG">
    
@@ -78,5 +78,3 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    <img src="Resources/scores_type_summary.PNG">
    </p>
 
-## Summary
- Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
