@@ -50,7 +50,11 @@ The removal of Thomas High School's 9th grade reading and math school has result
    <img src="Resources/per_school_summary_revised.PNG">
    </p>
 
-3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+3. In comparison to other schools, Thomas High School has retained the position for second highest Overall passing percentage.
+   <p align="left">
+   <img src="Resources/top5_schools_revised.PNG">
+   </p>
+
 4. How does replacing the ninth-grade scores affect the following:
   - Average Math and reading scores by grade
   
