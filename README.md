@@ -58,13 +58,24 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    
    b) No reportable effects have occured to the [Bottom 5](Resources/bottom5_schools_revised.PNG) performing schools.
    
- 4. a) Average Math(left) and reading(righ) scores by grade
+ 4. a) Average grades for **Math(left)** and **Reading(right)** scores for the 9th grade have been nullified, having no effect on grades 10 - 12 for Thomas High SChool.
   
   <img src="Resources/average_math_score_revised.PNG"> <img src="Resources/average_reading_score_revised.PNG">
-  - Scores by school spending
-  - Scores by school size
-  - Scores by school type
-
+   
+   b) **Scores by school spending**
+   <p align="left">
+   <img src="Resources/scores_spending_summary.PNG">
+   </p>
+   
+   c) **Scores by school size**
+   <p align="left">
+   <img src="Resources/scores_size_summary.PNG">
+   </p>
+   
+   d) **Scores by school type**
+   <p align="left">
+   <img src="Resources/scores_type_summary.PNG">
+   </p>
 
 ## Summary
  Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
