@@ -45,7 +45,7 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    
 2. **School Summary**
    
-   a) **Original**   [(Ref:Cell )](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools.ipynb)
+   a) **Original** 
    
    <p align="left">
    <img src="Resources/per_school_summary_original.PNG">
@@ -85,7 +85,8 @@ The removal of 9th grade reading and math scores from Thomas High School has res
   
   <img src="Resources/average_math_score_revised.PNG"> <img src="Resources/average_reading_score_revised.PNG">
    
-  - Based on the results no 
+  - Based on the revised results, no reportable changes have been made to the following DataFrames:
+  
    b) **Scores by School Spending**
    <p align="left">
    <img src="Resources/scores_spending_summary.PNG">
