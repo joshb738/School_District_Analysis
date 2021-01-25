@@ -53,8 +53,10 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    
    b) **Results excluding 9th grade math and reading scores for Thomas High School**   [(Ref:Cell 16)](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
    
+   - An approximate **0.07** decrease for the average math score.
+   - An approximate **0.05** decrease for the average reading score.
    - An approximate **26.36%** decrease in the students passing math percentage.
-   - An approximate **27.65%** decrase in the students passing reading percentage.
+   - An approximate **27.65%** decrease in the students passing reading percentage.
    - An approximate **25.87%** increase in the students overall passing percentage. 
    
    <p align="left">
@@ -63,7 +65,7 @@ The removal of 9th grade reading and math scores from Thomas High School has res
    
    c) **Results excluding all 9th grade students from Thomas High School**    [(Ref:Cell 27)](https://nbviewer.jupyter.org/github/joshb738/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
    
-   - An approximate **26.28%** inrease in the students passing math percentage.
+   - An approximate **26.28%** increase in the students passing math percentage.
    - An approximate **27.63%** increase in the students passing reading percentage.
    - An approximate **25.55%** increase in the students overall passing percentage. 
    
@@ -73,7 +75,7 @@ The removal of 9th grade reading and math scores from Thomas High School has res
 
 #### 3. **Top & Bottom 5 Schools based on Overall Passing percentage**
    
-   a) With and Overall Passing percentage of **90.63%** Thomas High has mainted the second-place position in the top 5 schools.
+   a) With an Overall Passing Percentage of **90.63%** Thomas High has mainted the second-place position in the top 5 schools.
    
    - **Top 5 Schools Revised** 
    <p align="left">
